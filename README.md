@@ -62,7 +62,7 @@ python --version
   
 1. **Clone the repository**  
 ```bash  
-git clone https://github.com/gamingwithsolex-ui/instagram-mass-reporting-tool  
+git clone https://github.com/gamingwithsolex-ui/Instagram-mass-reporting-module.git  
 cd InstaReporter  
 ```  
   
